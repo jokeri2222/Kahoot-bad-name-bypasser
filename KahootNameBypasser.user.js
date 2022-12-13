@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Kahoot name bypass
-// @namespace    http://tampermonkey.net/
-// @version      1.0
+// @namespace    ttps://github.com/jokeri2222/
+// @version      1.0.5
 // @description  Bypass kahoot bad word filter
-// @author       2222jokeri
+// @author       jokeri2222
 // @updateURL    https://github.com/jokeri2222/Kahoot-bad-name-bypasser/raw/main/KahootNameBypasser.user.js
 // @downloadURL  https://github.com/jokeri2222/Kahoot-bad-name-bypasser/raw/main/KahootNameBypasser.user.js
 // @match        https://kahoot.it/*
@@ -97,7 +97,6 @@ function initialize()
         var unblockedName = GetUnblockName()
         console.log("Unlocked name is \""+unblockedName+"\"")
         nickname[0].value = unblockedName.substring(0)
-        alert("Changed name to \""+unblockedName+"\"")
     });
 }
 
