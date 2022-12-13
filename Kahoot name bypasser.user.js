@@ -97,6 +97,7 @@ function initialize()
         var unblockedName = GetUnblockName()
         console.log("Unlocked name is \""+unblockedName+"\"")
         nickname[0].value = unblockedName.substring(0)
+        alert("Changed name to \""+unblockedName+"\"")
     });
 }
 
