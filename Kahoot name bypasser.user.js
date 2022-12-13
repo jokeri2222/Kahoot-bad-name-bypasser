@@ -4,8 +4,8 @@
 // @version      0.1
 // @description  Bypass kahoot bad word filter
 // @author       2222jokeri
-// @updateURL    https://github.com/jokeri2222/Kahoot-bad-name-bypasser/raw/main/KahootNameBypasser.user.js
-// @downloadURL  https://github.com/jokeri2222/Kahoot-bad-name-bypasser/raw/main/KahootNameBypasser.user.js
+// @updateURL    https://github.com/jokeri2222/Kahoot-bad-name-bypasser/raw/main/Kahoot%20name%20bypasser.user.js
+// @downloadURL  https://github.com/jokeri2222/Kahoot-bad-name-bypasser/raw/main/Kahoot%20name%20bypasser.user.js
 // @match        https://kahoot.it/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=kahoot.it
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
