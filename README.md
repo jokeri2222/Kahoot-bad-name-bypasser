@@ -1,2 +1,2 @@
 # Kahoot-bad-name-bypasser
-Bypasses kahoots bad name filer using tampermonkey.
+Bypasses kahoots bad name filter using tampermonkey.
