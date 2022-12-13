@@ -1,9 +1,11 @@
 // ==UserScript==
-// @name         Kahoot name bypasser
+// @name         Kahoot name bypass
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Bypass kahoot bad word filter
 // @author       2222jokeri
+// @updateURL    https://github.com/jokeri2222/Kahoot-bad-name-bypasser/raw/main/KahootNameBypasser.user.js
+// @downloadURL  https://github.com/jokeri2222/Kahoot-bad-name-bypasser/raw/main/KahootNameBypasser.user.js
 // @match        https://kahoot.it/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=kahoot.it
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
