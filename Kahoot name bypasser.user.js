@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kahoot name bypass
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  Bypass kahoot bad word filter
 // @author       2222jokeri
 // @updateURL    https://github.com/jokeri2222/Kahoot-bad-name-bypasser/raw/main/Kahoot%20name%20bypasser.user.js
